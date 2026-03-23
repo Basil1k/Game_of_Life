@@ -2,7 +2,7 @@
  A simple cellular automaton that my team and i'm implemented called the Game of Life.
 
 In order to get a working game, you need to compile the source code located in the `src` folder.
-You need have a `ncurses.h ` library. It is recommended to use a gcc compiler for compilation.
+You need have a `ncurses.h ` library. It is recommended to use a `gcc` compiler for compilation.
 
 Linux 
 ```
